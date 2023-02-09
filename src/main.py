@@ -18,3 +18,14 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Expected Output:
+# My Text.............
+# ______________My Text
+# ####My Text####
+#
+# ==================================
+#
+# My Text
+#                My Text
+#        My Text
