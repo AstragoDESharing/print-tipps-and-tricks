@@ -1,1 +1,1 @@
-# Python Poetry (3.9) Template by AstragoDE
+# Tipps and Tricks for the print command in python

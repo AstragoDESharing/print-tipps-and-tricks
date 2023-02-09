@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python_poetry_template"
+name = "print tipps and tricks"
 version = "0.1.0"
 description = ""
 authors = ["AstragoDE <51675359+AstragoDE@users.noreply.github.com>"]
