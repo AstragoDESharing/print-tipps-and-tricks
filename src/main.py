@@ -3,7 +3,7 @@ from rich import print
 
 # === Main Function ===
 def main():
-    text = "AstragoDE"
+    text = "My Text"
 
     print(f"{text:.<20}")
     print(f"{text:_>20}")
