@@ -1,1 +1,1 @@
-# Tipps and Tricks for the print command in python
+# Tips and Tricks for the print command in python
